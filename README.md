@@ -3,7 +3,7 @@ Computer-Science-Prep-Materials
 
 **Introduction**
 
-- Please check [NOTES]() for general information about this list.
+- Please check [NOTES](https://github.com/mayur25/Computer-Science-Prep-Materials/blob/master/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md]() for contribution guidelines.
 
 ------------------------------
